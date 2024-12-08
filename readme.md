@@ -21,6 +21,7 @@ Compares two images and returns the distance between the faces with matching mes
 ### Response
 ```json
 {
-  "distance": 0.4
+  "distance": 0.4,
+  "message": "Match found"
 }
 ```
